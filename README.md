@@ -1,3 +1,3 @@
-👋 Hello I'm @Qebrus
-👨‍💻 Currently studying The Odin Project 
-📚 So far I'm learning HTML and CSS
+👋 Hello I'm @Qebrus <br/>
+👨‍💻 Currently studying The Odin Project <br/>
+📚 So far I'm learning HTML and CSS <br/>
